@@ -1,4 +1,0 @@
-"beep.obj",
-"oled.obj" 
-TO "beep" 
-RAMSIZE(256) 
